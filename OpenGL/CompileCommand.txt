@@ -1,0 +1,1 @@
+g++ -o out main.cpp /home/le-laptop/glad/src/glad.c stb_image.cpp -lglfw -lGLU -lGL -lXrandr -lX11 -lrt -ldl -lassimp
